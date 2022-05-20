@@ -11,8 +11,8 @@ const Tasks = ({ tasks, onDelete, onToggle }) => {
   )
 }
 
-Tasks.propTypes = {
-tasks: PropTypes.array.isRequired,
-}
+// Tasks.propTypes = {
+// tasks: PropTypes.array.isRequired,
+// }
 
 export default Tasks
